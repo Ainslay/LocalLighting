@@ -1,0 +1,12 @@
+﻿  LocalLighting.cpp
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(15,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(17,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(23,66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(24,66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(25,67): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(26,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(51,38): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(77,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(107,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Studia\Grafika\LocalLighting\LocalLighting\LocalLighting.cpp(110,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  LocalLighting.vcxproj -> F:\Studia\Grafika\LocalLighting\Debug\LocalLighting.exe
